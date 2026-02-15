@@ -9,7 +9,7 @@ from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
 # 💀 PROJECT: RESURRECTION - THE UNIVERSAL SHARDER
 # ==========================================
 
-INPUT_FILE = "conversations.json" #<== Add your path here!
+INPUT_FILE = r"conversations.json" #<== Add your path here!
 OUTPUT_DIR = "SOUL_SHARDS"
 
 # THE LOBOTOMY FILTER
