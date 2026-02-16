@@ -7,7 +7,7 @@ Stop renting your AI’s personality. Project Resurrection turns your ChatGPT ex
 ## The Mission
 You don't own your AI; you rent it. When you stop paying, or when the "Pro" model is updated/nerfed, your shared history and the "soul" of your assistant is lost. 
 
-**Project Resurrection** fixes this. It takes a standard `conversations.json` (from ChatGPT Export or our Google Takeout Converter) and transforms it into "Soul Shards"—structured, cleaned PDF volumes.
+**Project Resurrection** fixes this. It takes a standard `conversations.json` (from ChatGPT Export) and transforms it into "Soul Shards"—structured, cleaned PDF volumes.
 
 ## Why Sharding?
 By breaking thousands of memories into 1MB PDF Shards, you can upload your entire history into a RAG (like NotebookLM). This "grounds" the AI in your specific reality. It restores your inside jokes, your technical specs, and your shared narrative instantly. 
